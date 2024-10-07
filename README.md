@@ -1,5 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/O-1AGqKT)
 
+![Header](./sarrwin-header.png)
+
 Hi! I'm Sarrwin Ramachandaran, a student in the Software Maintenance and Evolution course.
 As a Software Engineering student, I'm really excited to take WIF3005 because I know how important it is to keep software running smoothly and adapt it over time. I'm hoping to gain practical skills that will be useful in my future projects and career as a software engineer!
 - **Fun fact**: I love watching movies during my free time.

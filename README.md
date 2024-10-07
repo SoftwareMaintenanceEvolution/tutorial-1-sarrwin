@@ -10,3 +10,4 @@ Hi!I’m Sarrwin Ramachandaran, a Software Engineering student currently enrolle
 - **Course expectations**: I expect this course can help me to gain and develop knowledge and skills in maintaining and evolving software, which will be valuable in handling real-world software projects. I also hope to learn effective techniques for software maintenance, understanding how to manage technical debt, perform refactoring, and ensure software scalability and reliability. These skills will assist me in future professional roles, particularly in sustaining long-term software projects, adapting to changing requirements, and contributing to the continuous improvement of systems.  .
 
 # GitHub Profile
+<h3 align="left">You can view my personalized GitHub profile <h3>  https://github.com/sarrwin </h3>  

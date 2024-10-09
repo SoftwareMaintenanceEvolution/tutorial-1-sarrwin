@@ -2,7 +2,7 @@
 
 # Introduction
 
-![Header](./sarrwin.png)
+![Header](./sarrwin.jpg)
 
 Hi!I’m Sarrwin Ramachandaran, a Software Engineering student currently enrolled in the Software Maintenance and Evolution course (WIF3005). I’m genuinely excited about this subject because I understand how crucial it is to ensure that software remains functional, adaptable, and efficient over time. Through this course, I’m eager to develop hands-on skills that will not only enhance my current projects but also serve as a solid foundation for my future career in software engineering.
 
